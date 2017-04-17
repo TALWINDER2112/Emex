@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UIFinal</string>
+    <string name="service"><u>Terms of Service</u> </string>
+    <string name="privacy"><u>Privacy Policies</u> </string>
+</resources>
